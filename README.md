@@ -25,7 +25,7 @@ Funcionalidades:
 - Trabalhar diretamente com arquivos reais do sistema
   
 
-Tecnologias usadas:
+Tecnologias :
 - Java
 - Java Swing
 - RandomAccessFile
@@ -61,6 +61,7 @@ src/
 
 Interface:
 A aplicação possui interface gráfica desenvolvida com Java Swing.
+
 Nela é possível:
 - Abrir arquivos do computador;
 - Navegar pelos setores;
@@ -71,6 +72,7 @@ Nela é possível:
   
 
 Conceitos de Sistemas Operacionais Utilizados:
+
 Durante o desenvolvimento foram aplicados diversos conceitos da disciplina, como:
 - Organização de arquivos
 - Manipulação binária
