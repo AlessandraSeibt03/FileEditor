@@ -91,6 +91,7 @@ Como executar:
 Clone o repositório: https://github.com/AlessandraSeibt03/FileEditor
 
 Abra o projeto no Visual Studio Code ou IntelliJ.
+
 Execute a classe Main.java
 
 Após abrir um arquivo na interface, o sistema apresenta:
