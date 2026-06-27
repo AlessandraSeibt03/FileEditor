@@ -1,4 +1,4 @@
-Leitor de Arquivos Binários
+Leitor de Arquivos Binários.
 
 Projeto desenvolvido para a disciplina de Sistemas Operacionais.
 
