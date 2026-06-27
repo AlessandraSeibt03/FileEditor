@@ -1,0 +1,9 @@
+package FileEditor;
+
+import javax.swing.SwingUtilities;
+
+public class Main {
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> new FileReaderUI().setVisible(true));
+    }
+}
