@@ -1,4 +1,5 @@
 Leitor de Arquivos Binários
+
 Projeto desenvolvido para a disciplina de Sistemas Operacionais.
 
 
